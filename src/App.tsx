@@ -321,7 +321,7 @@ function App() {
       <AppBar color="primary">
         <Toolbar>
           <Typography className={classes.title} variant="h6">
-            Basic Communication
+            Chao em, huehue
           </Typography>
         </Toolbar>
       </AppBar>
